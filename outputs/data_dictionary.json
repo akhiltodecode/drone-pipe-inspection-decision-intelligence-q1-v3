@@ -1,0 +1,47 @@
+{
+  "unit": "one simulated drone inspection of one pipe segment",
+  "group": "asset_id (12 segments)",
+  "target": "failure_12m within 12 months",
+  "model_features": [
+    "material",
+    "environment",
+    "criticality",
+    "age_years",
+    "diameter_mm",
+    "pressure_ratio",
+    "temperature_duty",
+    "rgb_corrosion",
+    "rgb_crack",
+    "rgb_coating",
+    "thermal_delta",
+    "thermal_hotspot",
+    "thermal_gradient",
+    "wind_ms",
+    "standoff_m",
+    "illumination",
+    "blur",
+    "thermal_confidence",
+    "flight_distance_m",
+    "battery_remaining"
+  ],
+  "prohibited_model_fields": [
+    "asset_effect",
+    "asset_id",
+    "direct_cost",
+    "failure_12m",
+    "failure_cost",
+    "latent_corrosion",
+    "latent_crack",
+    "latent_leak",
+    "oracle_action",
+    "segment_id",
+    "true_probability"
+  ],
+  "actions": [
+    "monitor",
+    "reinspect",
+    "planned_repair",
+    "urgent_shutdown"
+  ],
+  "cost_unit": "dimensionless simulation cost unit"
+}

@@ -1,0 +1,721 @@
+replicate,scenario,method,action,count
+1,main,Fixed rule heuristic,monitor,390
+1,main,Fixed rule heuristic,reinspect,110
+1,main,Fixed rule heuristic,planned_repair,39
+1,main,Fixed rule heuristic,urgent_shutdown,1
+1,main,Logistic + calibration,monitor,327
+1,main,Logistic + calibration,reinspect,116
+1,main,Logistic + calibration,planned_repair,97
+1,main,Logistic + calibration,urgent_shutdown,0
+1,main,Random forest + calibration,monitor,344
+1,main,Random forest + calibration,reinspect,112
+1,main,Random forest + calibration,planned_repair,84
+1,main,Random forest + calibration,urgent_shutdown,0
+1,main,Gradient boosting (uncalibrated),monitor,238
+1,main,Gradient boosting (uncalibrated),reinspect,129
+1,main,Gradient boosting (uncalibrated),planned_repair,173
+1,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+1,main,Gradient boosting + fixed thresholds,monitor,242
+1,main,Gradient boosting + fixed thresholds,reinspect,221
+1,main,Gradient boosting + fixed thresholds,planned_repair,71
+1,main,Gradient boosting + fixed thresholds,urgent_shutdown,6
+1,main,Proposed calibrated GB + optimizer,monitor,324
+1,main,Proposed calibrated GB + optimizer,reinspect,139
+1,main,Proposed calibrated GB + optimizer,planned_repair,77
+1,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+2,main,Fixed rule heuristic,monitor,380
+2,main,Fixed rule heuristic,reinspect,98
+2,main,Fixed rule heuristic,planned_repair,45
+2,main,Fixed rule heuristic,urgent_shutdown,17
+2,main,Logistic + calibration,monitor,384
+2,main,Logistic + calibration,reinspect,75
+2,main,Logistic + calibration,planned_repair,81
+2,main,Logistic + calibration,urgent_shutdown,0
+2,main,Random forest + calibration,monitor,388
+2,main,Random forest + calibration,reinspect,62
+2,main,Random forest + calibration,planned_repair,90
+2,main,Random forest + calibration,urgent_shutdown,0
+2,main,Gradient boosting (uncalibrated),monitor,300
+2,main,Gradient boosting (uncalibrated),reinspect,57
+2,main,Gradient boosting (uncalibrated),planned_repair,183
+2,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+2,main,Gradient boosting + fixed thresholds,monitor,298
+2,main,Gradient boosting + fixed thresholds,reinspect,120
+2,main,Gradient boosting + fixed thresholds,planned_repair,104
+2,main,Gradient boosting + fixed thresholds,urgent_shutdown,18
+2,main,Proposed calibrated GB + optimizer,monitor,335
+2,main,Proposed calibrated GB + optimizer,reinspect,96
+2,main,Proposed calibrated GB + optimizer,planned_repair,109
+2,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+3,main,Fixed rule heuristic,monitor,363
+3,main,Fixed rule heuristic,reinspect,134
+3,main,Fixed rule heuristic,planned_repair,37
+3,main,Fixed rule heuristic,urgent_shutdown,6
+3,main,Logistic + calibration,monitor,423
+3,main,Logistic + calibration,reinspect,73
+3,main,Logistic + calibration,planned_repair,44
+3,main,Logistic + calibration,urgent_shutdown,0
+3,main,Random forest + calibration,monitor,417
+3,main,Random forest + calibration,reinspect,74
+3,main,Random forest + calibration,planned_repair,49
+3,main,Random forest + calibration,urgent_shutdown,0
+3,main,Gradient boosting (uncalibrated),monitor,224
+3,main,Gradient boosting (uncalibrated),reinspect,129
+3,main,Gradient boosting (uncalibrated),planned_repair,187
+3,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+3,main,Gradient boosting + fixed thresholds,monitor,308
+3,main,Gradient boosting + fixed thresholds,reinspect,182
+3,main,Gradient boosting + fixed thresholds,planned_repair,50
+3,main,Gradient boosting + fixed thresholds,urgent_shutdown,0
+3,main,Proposed calibrated GB + optimizer,monitor,398
+3,main,Proposed calibrated GB + optimizer,reinspect,103
+3,main,Proposed calibrated GB + optimizer,planned_repair,39
+3,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+4,main,Fixed rule heuristic,monitor,336
+4,main,Fixed rule heuristic,reinspect,151
+4,main,Fixed rule heuristic,planned_repair,47
+4,main,Fixed rule heuristic,urgent_shutdown,6
+4,main,Logistic + calibration,monitor,332
+4,main,Logistic + calibration,reinspect,123
+4,main,Logistic + calibration,planned_repair,85
+4,main,Logistic + calibration,urgent_shutdown,0
+4,main,Random forest + calibration,monitor,358
+4,main,Random forest + calibration,reinspect,99
+4,main,Random forest + calibration,planned_repair,83
+4,main,Random forest + calibration,urgent_shutdown,0
+4,main,Gradient boosting (uncalibrated),monitor,241
+4,main,Gradient boosting (uncalibrated),reinspect,90
+4,main,Gradient boosting (uncalibrated),planned_repair,208
+4,main,Gradient boosting (uncalibrated),urgent_shutdown,1
+4,main,Gradient boosting + fixed thresholds,monitor,301
+4,main,Gradient boosting + fixed thresholds,reinspect,166
+4,main,Gradient boosting + fixed thresholds,planned_repair,66
+4,main,Gradient boosting + fixed thresholds,urgent_shutdown,7
+4,main,Proposed calibrated GB + optimizer,monitor,358
+4,main,Proposed calibrated GB + optimizer,reinspect,108
+4,main,Proposed calibrated GB + optimizer,planned_repair,74
+4,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+5,main,Fixed rule heuristic,monitor,351
+5,main,Fixed rule heuristic,reinspect,120
+5,main,Fixed rule heuristic,planned_repair,49
+5,main,Fixed rule heuristic,urgent_shutdown,20
+5,main,Logistic + calibration,monitor,307
+5,main,Logistic + calibration,reinspect,122
+5,main,Logistic + calibration,planned_repair,111
+5,main,Logistic + calibration,urgent_shutdown,0
+5,main,Random forest + calibration,monitor,313
+5,main,Random forest + calibration,reinspect,118
+5,main,Random forest + calibration,planned_repair,109
+5,main,Random forest + calibration,urgent_shutdown,0
+5,main,Gradient boosting (uncalibrated),monitor,231
+5,main,Gradient boosting (uncalibrated),reinspect,105
+5,main,Gradient boosting (uncalibrated),planned_repair,202
+5,main,Gradient boosting (uncalibrated),urgent_shutdown,2
+5,main,Gradient boosting + fixed thresholds,monitor,219
+5,main,Gradient boosting + fixed thresholds,reinspect,226
+5,main,Gradient boosting + fixed thresholds,planned_repair,80
+5,main,Gradient boosting + fixed thresholds,urgent_shutdown,15
+5,main,Proposed calibrated GB + optimizer,monitor,309
+5,main,Proposed calibrated GB + optimizer,reinspect,131
+5,main,Proposed calibrated GB + optimizer,planned_repair,100
+5,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+6,main,Fixed rule heuristic,monitor,333
+6,main,Fixed rule heuristic,reinspect,129
+6,main,Fixed rule heuristic,planned_repair,70
+6,main,Fixed rule heuristic,urgent_shutdown,8
+6,main,Logistic + calibration,monitor,340
+6,main,Logistic + calibration,reinspect,104
+6,main,Logistic + calibration,planned_repair,96
+6,main,Logistic + calibration,urgent_shutdown,0
+6,main,Random forest + calibration,monitor,353
+6,main,Random forest + calibration,reinspect,95
+6,main,Random forest + calibration,planned_repair,92
+6,main,Random forest + calibration,urgent_shutdown,0
+6,main,Gradient boosting (uncalibrated),monitor,248
+6,main,Gradient boosting (uncalibrated),reinspect,90
+6,main,Gradient boosting (uncalibrated),planned_repair,193
+6,main,Gradient boosting (uncalibrated),urgent_shutdown,9
+6,main,Gradient boosting + fixed thresholds,monitor,281
+6,main,Gradient boosting + fixed thresholds,reinspect,175
+6,main,Gradient boosting + fixed thresholds,planned_repair,72
+6,main,Gradient boosting + fixed thresholds,urgent_shutdown,12
+6,main,Proposed calibrated GB + optimizer,monitor,346
+6,main,Proposed calibrated GB + optimizer,reinspect,120
+6,main,Proposed calibrated GB + optimizer,planned_repair,74
+6,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+7,main,Fixed rule heuristic,monitor,336
+7,main,Fixed rule heuristic,reinspect,138
+7,main,Fixed rule heuristic,planned_repair,64
+7,main,Fixed rule heuristic,urgent_shutdown,2
+7,main,Logistic + calibration,monitor,294
+7,main,Logistic + calibration,reinspect,133
+7,main,Logistic + calibration,planned_repair,113
+7,main,Logistic + calibration,urgent_shutdown,0
+7,main,Random forest + calibration,monitor,294
+7,main,Random forest + calibration,reinspect,128
+7,main,Random forest + calibration,planned_repair,118
+7,main,Random forest + calibration,urgent_shutdown,0
+7,main,Gradient boosting (uncalibrated),monitor,197
+7,main,Gradient boosting (uncalibrated),reinspect,104
+7,main,Gradient boosting (uncalibrated),planned_repair,233
+7,main,Gradient boosting (uncalibrated),urgent_shutdown,6
+7,main,Gradient boosting + fixed thresholds,monitor,169
+7,main,Gradient boosting + fixed thresholds,reinspect,267
+7,main,Gradient boosting + fixed thresholds,planned_repair,101
+7,main,Gradient boosting + fixed thresholds,urgent_shutdown,3
+7,main,Proposed calibrated GB + optimizer,monitor,256
+7,main,Proposed calibrated GB + optimizer,reinspect,170
+7,main,Proposed calibrated GB + optimizer,planned_repair,114
+7,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+8,main,Fixed rule heuristic,monitor,337
+8,main,Fixed rule heuristic,reinspect,135
+8,main,Fixed rule heuristic,planned_repair,51
+8,main,Fixed rule heuristic,urgent_shutdown,17
+8,main,Logistic + calibration,monitor,333
+8,main,Logistic + calibration,reinspect,94
+8,main,Logistic + calibration,planned_repair,113
+8,main,Logistic + calibration,urgent_shutdown,0
+8,main,Random forest + calibration,monitor,341
+8,main,Random forest + calibration,reinspect,88
+8,main,Random forest + calibration,planned_repair,111
+8,main,Random forest + calibration,urgent_shutdown,0
+8,main,Gradient boosting (uncalibrated),monitor,238
+8,main,Gradient boosting (uncalibrated),reinspect,98
+8,main,Gradient boosting (uncalibrated),planned_repair,204
+8,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+8,main,Gradient boosting + fixed thresholds,monitor,248
+8,main,Gradient boosting + fixed thresholds,reinspect,170
+8,main,Gradient boosting + fixed thresholds,planned_repair,97
+8,main,Gradient boosting + fixed thresholds,urgent_shutdown,25
+8,main,Proposed calibrated GB + optimizer,monitor,306
+8,main,Proposed calibrated GB + optimizer,reinspect,119
+8,main,Proposed calibrated GB + optimizer,planned_repair,115
+8,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+9,main,Fixed rule heuristic,monitor,335
+9,main,Fixed rule heuristic,reinspect,160
+9,main,Fixed rule heuristic,planned_repair,43
+9,main,Fixed rule heuristic,urgent_shutdown,2
+9,main,Logistic + calibration,monitor,288
+9,main,Logistic + calibration,reinspect,157
+9,main,Logistic + calibration,planned_repair,95
+9,main,Logistic + calibration,urgent_shutdown,0
+9,main,Random forest + calibration,monitor,314
+9,main,Random forest + calibration,reinspect,137
+9,main,Random forest + calibration,planned_repair,89
+9,main,Random forest + calibration,urgent_shutdown,0
+9,main,Gradient boosting (uncalibrated),monitor,170
+9,main,Gradient boosting (uncalibrated),reinspect,133
+9,main,Gradient boosting (uncalibrated),planned_repair,237
+9,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+9,main,Gradient boosting + fixed thresholds,monitor,201
+9,main,Gradient boosting + fixed thresholds,reinspect,246
+9,main,Gradient boosting + fixed thresholds,planned_repair,88
+9,main,Gradient boosting + fixed thresholds,urgent_shutdown,5
+9,main,Proposed calibrated GB + optimizer,monitor,297
+9,main,Proposed calibrated GB + optimizer,reinspect,152
+9,main,Proposed calibrated GB + optimizer,planned_repair,91
+9,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+10,main,Fixed rule heuristic,monitor,374
+10,main,Fixed rule heuristic,reinspect,133
+10,main,Fixed rule heuristic,planned_repair,30
+10,main,Fixed rule heuristic,urgent_shutdown,3
+10,main,Logistic + calibration,monitor,387
+10,main,Logistic + calibration,reinspect,102
+10,main,Logistic + calibration,planned_repair,51
+10,main,Logistic + calibration,urgent_shutdown,0
+10,main,Random forest + calibration,monitor,389
+10,main,Random forest + calibration,reinspect,92
+10,main,Random forest + calibration,planned_repair,59
+10,main,Random forest + calibration,urgent_shutdown,0
+10,main,Gradient boosting (uncalibrated),monitor,256
+10,main,Gradient boosting (uncalibrated),reinspect,99
+10,main,Gradient boosting (uncalibrated),planned_repair,181
+10,main,Gradient boosting (uncalibrated),urgent_shutdown,4
+10,main,Gradient boosting + fixed thresholds,monitor,299
+10,main,Gradient boosting + fixed thresholds,reinspect,174
+10,main,Gradient boosting + fixed thresholds,planned_repair,59
+10,main,Gradient boosting + fixed thresholds,urgent_shutdown,8
+10,main,Proposed calibrated GB + optimizer,monitor,361
+10,main,Proposed calibrated GB + optimizer,reinspect,115
+10,main,Proposed calibrated GB + optimizer,planned_repair,64
+10,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+11,main,Fixed rule heuristic,monitor,373
+11,main,Fixed rule heuristic,reinspect,132
+11,main,Fixed rule heuristic,planned_repair,27
+11,main,Fixed rule heuristic,urgent_shutdown,8
+11,main,Logistic + calibration,monitor,349
+11,main,Logistic + calibration,reinspect,137
+11,main,Logistic + calibration,planned_repair,54
+11,main,Logistic + calibration,urgent_shutdown,0
+11,main,Random forest + calibration,monitor,383
+11,main,Random forest + calibration,reinspect,97
+11,main,Random forest + calibration,planned_repair,60
+11,main,Random forest + calibration,urgent_shutdown,0
+11,main,Gradient boosting (uncalibrated),monitor,275
+11,main,Gradient boosting (uncalibrated),reinspect,100
+11,main,Gradient boosting (uncalibrated),planned_repair,165
+11,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+11,main,Gradient boosting + fixed thresholds,monitor,276
+11,main,Gradient boosting + fixed thresholds,reinspect,191
+11,main,Gradient boosting + fixed thresholds,planned_repair,70
+11,main,Gradient boosting + fixed thresholds,urgent_shutdown,3
+11,main,Proposed calibrated GB + optimizer,monitor,349
+11,main,Proposed calibrated GB + optimizer,reinspect,116
+11,main,Proposed calibrated GB + optimizer,planned_repair,75
+11,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+12,main,Fixed rule heuristic,monitor,347
+12,main,Fixed rule heuristic,reinspect,144
+12,main,Fixed rule heuristic,planned_repair,44
+12,main,Fixed rule heuristic,urgent_shutdown,5
+12,main,Logistic + calibration,monitor,370
+12,main,Logistic + calibration,reinspect,120
+12,main,Logistic + calibration,planned_repair,50
+12,main,Logistic + calibration,urgent_shutdown,0
+12,main,Random forest + calibration,monitor,353
+12,main,Random forest + calibration,reinspect,132
+12,main,Random forest + calibration,planned_repair,55
+12,main,Random forest + calibration,urgent_shutdown,0
+12,main,Gradient boosting (uncalibrated),monitor,226
+12,main,Gradient boosting (uncalibrated),reinspect,106
+12,main,Gradient boosting (uncalibrated),planned_repair,200
+12,main,Gradient boosting (uncalibrated),urgent_shutdown,8
+12,main,Gradient boosting + fixed thresholds,monitor,246
+12,main,Gradient boosting + fixed thresholds,reinspect,249
+12,main,Gradient boosting + fixed thresholds,planned_repair,45
+12,main,Gradient boosting + fixed thresholds,urgent_shutdown,0
+12,main,Proposed calibrated GB + optimizer,monitor,336
+12,main,Proposed calibrated GB + optimizer,reinspect,156
+12,main,Proposed calibrated GB + optimizer,planned_repair,48
+12,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+13,main,Fixed rule heuristic,monitor,301
+13,main,Fixed rule heuristic,reinspect,157
+13,main,Fixed rule heuristic,planned_repair,61
+13,main,Fixed rule heuristic,urgent_shutdown,21
+13,main,Logistic + calibration,monitor,363
+13,main,Logistic + calibration,reinspect,70
+13,main,Logistic + calibration,planned_repair,107
+13,main,Logistic + calibration,urgent_shutdown,0
+13,main,Random forest + calibration,monitor,374
+13,main,Random forest + calibration,reinspect,71
+13,main,Random forest + calibration,planned_repair,95
+13,main,Random forest + calibration,urgent_shutdown,0
+13,main,Gradient boosting (uncalibrated),monitor,207
+13,main,Gradient boosting (uncalibrated),reinspect,113
+13,main,Gradient boosting (uncalibrated),planned_repair,201
+13,main,Gradient boosting (uncalibrated),urgent_shutdown,19
+13,main,Gradient boosting + fixed thresholds,monitor,316
+13,main,Gradient boosting + fixed thresholds,reinspect,145
+13,main,Gradient boosting + fixed thresholds,planned_repair,67
+13,main,Gradient boosting + fixed thresholds,urgent_shutdown,12
+13,main,Proposed calibrated GB + optimizer,monitor,374
+13,main,Proposed calibrated GB + optimizer,reinspect,80
+13,main,Proposed calibrated GB + optimizer,planned_repair,86
+13,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+14,main,Fixed rule heuristic,monitor,343
+14,main,Fixed rule heuristic,reinspect,130
+14,main,Fixed rule heuristic,planned_repair,60
+14,main,Fixed rule heuristic,urgent_shutdown,7
+14,main,Logistic + calibration,monitor,288
+14,main,Logistic + calibration,reinspect,154
+14,main,Logistic + calibration,planned_repair,98
+14,main,Logistic + calibration,urgent_shutdown,0
+14,main,Random forest + calibration,monitor,313
+14,main,Random forest + calibration,reinspect,128
+14,main,Random forest + calibration,planned_repair,99
+14,main,Random forest + calibration,urgent_shutdown,0
+14,main,Gradient boosting (uncalibrated),monitor,229
+14,main,Gradient boosting (uncalibrated),reinspect,93
+14,main,Gradient boosting (uncalibrated),planned_repair,214
+14,main,Gradient boosting (uncalibrated),urgent_shutdown,4
+14,main,Gradient boosting + fixed thresholds,monitor,208
+14,main,Gradient boosting + fixed thresholds,reinspect,237
+14,main,Gradient boosting + fixed thresholds,planned_repair,93
+14,main,Gradient boosting + fixed thresholds,urgent_shutdown,2
+14,main,Proposed calibrated GB + optimizer,monitor,270
+14,main,Proposed calibrated GB + optimizer,reinspect,164
+14,main,Proposed calibrated GB + optimizer,planned_repair,106
+14,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+15,main,Fixed rule heuristic,monitor,346
+15,main,Fixed rule heuristic,reinspect,117
+15,main,Fixed rule heuristic,planned_repair,69
+15,main,Fixed rule heuristic,urgent_shutdown,8
+15,main,Logistic + calibration,monitor,366
+15,main,Logistic + calibration,reinspect,72
+15,main,Logistic + calibration,planned_repair,102
+15,main,Logistic + calibration,urgent_shutdown,0
+15,main,Random forest + calibration,monitor,327
+15,main,Random forest + calibration,reinspect,93
+15,main,Random forest + calibration,planned_repair,120
+15,main,Random forest + calibration,urgent_shutdown,0
+15,main,Gradient boosting (uncalibrated),monitor,216
+15,main,Gradient boosting (uncalibrated),reinspect,99
+15,main,Gradient boosting (uncalibrated),planned_repair,220
+15,main,Gradient boosting (uncalibrated),urgent_shutdown,5
+15,main,Gradient boosting + fixed thresholds,monitor,231
+15,main,Gradient boosting + fixed thresholds,reinspect,185
+15,main,Gradient boosting + fixed thresholds,planned_repair,106
+15,main,Gradient boosting + fixed thresholds,urgent_shutdown,18
+15,main,Proposed calibrated GB + optimizer,monitor,296
+15,main,Proposed calibrated GB + optimizer,reinspect,123
+15,main,Proposed calibrated GB + optimizer,planned_repair,121
+15,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+16,main,Fixed rule heuristic,monitor,277
+16,main,Fixed rule heuristic,reinspect,165
+16,main,Fixed rule heuristic,planned_repair,80
+16,main,Fixed rule heuristic,urgent_shutdown,18
+16,main,Logistic + calibration,monitor,255
+16,main,Logistic + calibration,reinspect,123
+16,main,Logistic + calibration,planned_repair,162
+16,main,Logistic + calibration,urgent_shutdown,0
+16,main,Random forest + calibration,monitor,242
+16,main,Random forest + calibration,reinspect,147
+16,main,Random forest + calibration,planned_repair,151
+16,main,Random forest + calibration,urgent_shutdown,0
+16,main,Gradient boosting (uncalibrated),monitor,218
+16,main,Gradient boosting (uncalibrated),reinspect,84
+16,main,Gradient boosting (uncalibrated),planned_repair,233
+16,main,Gradient boosting (uncalibrated),urgent_shutdown,5
+16,main,Gradient boosting + fixed thresholds,monitor,187
+16,main,Gradient boosting + fixed thresholds,reinspect,189
+16,main,Gradient boosting + fixed thresholds,planned_repair,147
+16,main,Gradient boosting + fixed thresholds,urgent_shutdown,17
+16,main,Proposed calibrated GB + optimizer,monitor,265
+16,main,Proposed calibrated GB + optimizer,reinspect,138
+16,main,Proposed calibrated GB + optimizer,planned_repair,137
+16,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+17,main,Fixed rule heuristic,monitor,292
+17,main,Fixed rule heuristic,reinspect,150
+17,main,Fixed rule heuristic,planned_repair,79
+17,main,Fixed rule heuristic,urgent_shutdown,19
+17,main,Logistic + calibration,monitor,282
+17,main,Logistic + calibration,reinspect,97
+17,main,Logistic + calibration,planned_repair,160
+17,main,Logistic + calibration,urgent_shutdown,1
+17,main,Random forest + calibration,monitor,329
+17,main,Random forest + calibration,reinspect,80
+17,main,Random forest + calibration,planned_repair,130
+17,main,Random forest + calibration,urgent_shutdown,1
+17,main,Gradient boosting (uncalibrated),monitor,181
+17,main,Gradient boosting (uncalibrated),reinspect,98
+17,main,Gradient boosting (uncalibrated),planned_repair,246
+17,main,Gradient boosting (uncalibrated),urgent_shutdown,15
+17,main,Gradient boosting + fixed thresholds,monitor,245
+17,main,Gradient boosting + fixed thresholds,reinspect,142
+17,main,Gradient boosting + fixed thresholds,planned_repair,120
+17,main,Gradient boosting + fixed thresholds,urgent_shutdown,33
+17,main,Proposed calibrated GB + optimizer,monitor,285
+17,main,Proposed calibrated GB + optimizer,reinspect,107
+17,main,Proposed calibrated GB + optimizer,planned_repair,148
+17,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+18,main,Fixed rule heuristic,monitor,264
+18,main,Fixed rule heuristic,reinspect,177
+18,main,Fixed rule heuristic,planned_repair,92
+18,main,Fixed rule heuristic,urgent_shutdown,7
+18,main,Logistic + calibration,monitor,275
+18,main,Logistic + calibration,reinspect,142
+18,main,Logistic + calibration,planned_repair,123
+18,main,Logistic + calibration,urgent_shutdown,0
+18,main,Random forest + calibration,monitor,280
+18,main,Random forest + calibration,reinspect,136
+18,main,Random forest + calibration,planned_repair,124
+18,main,Random forest + calibration,urgent_shutdown,0
+18,main,Gradient boosting (uncalibrated),monitor,191
+18,main,Gradient boosting (uncalibrated),reinspect,67
+18,main,Gradient boosting (uncalibrated),planned_repair,279
+18,main,Gradient boosting (uncalibrated),urgent_shutdown,3
+18,main,Gradient boosting + fixed thresholds,monitor,214
+18,main,Gradient boosting + fixed thresholds,reinspect,202
+18,main,Gradient boosting + fixed thresholds,planned_repair,121
+18,main,Gradient boosting + fixed thresholds,urgent_shutdown,3
+18,main,Proposed calibrated GB + optimizer,monitor,271
+18,main,Proposed calibrated GB + optimizer,reinspect,149
+18,main,Proposed calibrated GB + optimizer,planned_repair,120
+18,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+19,main,Fixed rule heuristic,monitor,362
+19,main,Fixed rule heuristic,reinspect,135
+19,main,Fixed rule heuristic,planned_repair,42
+19,main,Fixed rule heuristic,urgent_shutdown,1
+19,main,Logistic + calibration,monitor,299
+19,main,Logistic + calibration,reinspect,167
+19,main,Logistic + calibration,planned_repair,74
+19,main,Logistic + calibration,urgent_shutdown,0
+19,main,Random forest + calibration,monitor,302
+19,main,Random forest + calibration,reinspect,161
+19,main,Random forest + calibration,planned_repair,77
+19,main,Random forest + calibration,urgent_shutdown,0
+19,main,Gradient boosting (uncalibrated),monitor,276
+19,main,Gradient boosting (uncalibrated),reinspect,112
+19,main,Gradient boosting (uncalibrated),planned_repair,151
+19,main,Gradient boosting (uncalibrated),urgent_shutdown,1
+19,main,Gradient boosting + fixed thresholds,monitor,186
+19,main,Gradient boosting + fixed thresholds,reinspect,253
+19,main,Gradient boosting + fixed thresholds,planned_repair,100
+19,main,Gradient boosting + fixed thresholds,urgent_shutdown,1
+19,main,Proposed calibrated GB + optimizer,monitor,270
+19,main,Proposed calibrated GB + optimizer,reinspect,187
+19,main,Proposed calibrated GB + optimizer,planned_repair,83
+19,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+20,main,Fixed rule heuristic,monitor,362
+20,main,Fixed rule heuristic,reinspect,112
+20,main,Fixed rule heuristic,planned_repair,58
+20,main,Fixed rule heuristic,urgent_shutdown,8
+20,main,Logistic + calibration,monitor,366
+20,main,Logistic + calibration,reinspect,86
+20,main,Logistic + calibration,planned_repair,88
+20,main,Logistic + calibration,urgent_shutdown,0
+20,main,Random forest + calibration,monitor,350
+20,main,Random forest + calibration,reinspect,85
+20,main,Random forest + calibration,planned_repair,105
+20,main,Random forest + calibration,urgent_shutdown,0
+20,main,Gradient boosting (uncalibrated),monitor,290
+20,main,Gradient boosting (uncalibrated),reinspect,63
+20,main,Gradient boosting (uncalibrated),planned_repair,185
+20,main,Gradient boosting (uncalibrated),urgent_shutdown,2
+20,main,Gradient boosting + fixed thresholds,monitor,284
+20,main,Gradient boosting + fixed thresholds,reinspect,153
+20,main,Gradient boosting + fixed thresholds,planned_repair,95
+20,main,Gradient boosting + fixed thresholds,urgent_shutdown,8
+20,main,Proposed calibrated GB + optimizer,monitor,329
+20,main,Proposed calibrated GB + optimizer,reinspect,111
+20,main,Proposed calibrated GB + optimizer,planned_repair,100
+20,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+21,main,Fixed rule heuristic,monitor,326
+21,main,Fixed rule heuristic,reinspect,133
+21,main,Fixed rule heuristic,planned_repair,75
+21,main,Fixed rule heuristic,urgent_shutdown,6
+21,main,Logistic + calibration,monitor,295
+21,main,Logistic + calibration,reinspect,109
+21,main,Logistic + calibration,planned_repair,136
+21,main,Logistic + calibration,urgent_shutdown,0
+21,main,Random forest + calibration,monitor,304
+21,main,Random forest + calibration,reinspect,100
+21,main,Random forest + calibration,planned_repair,136
+21,main,Random forest + calibration,urgent_shutdown,0
+21,main,Gradient boosting (uncalibrated),monitor,193
+21,main,Gradient boosting (uncalibrated),reinspect,113
+21,main,Gradient boosting (uncalibrated),planned_repair,233
+21,main,Gradient boosting (uncalibrated),urgent_shutdown,1
+21,main,Gradient boosting + fixed thresholds,monitor,201
+21,main,Gradient boosting + fixed thresholds,reinspect,204
+21,main,Gradient boosting + fixed thresholds,planned_repair,130
+21,main,Gradient boosting + fixed thresholds,urgent_shutdown,5
+21,main,Proposed calibrated GB + optimizer,monitor,258
+21,main,Proposed calibrated GB + optimizer,reinspect,158
+21,main,Proposed calibrated GB + optimizer,planned_repair,124
+21,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+22,main,Fixed rule heuristic,monitor,367
+22,main,Fixed rule heuristic,reinspect,126
+22,main,Fixed rule heuristic,planned_repair,36
+22,main,Fixed rule heuristic,urgent_shutdown,11
+22,main,Logistic + calibration,monitor,387
+22,main,Logistic + calibration,reinspect,90
+22,main,Logistic + calibration,planned_repair,63
+22,main,Logistic + calibration,urgent_shutdown,0
+22,main,Random forest + calibration,monitor,383
+22,main,Random forest + calibration,reinspect,99
+22,main,Random forest + calibration,planned_repair,58
+22,main,Random forest + calibration,urgent_shutdown,0
+22,main,Gradient boosting (uncalibrated),monitor,210
+22,main,Gradient boosting (uncalibrated),reinspect,132
+22,main,Gradient boosting (uncalibrated),planned_repair,197
+22,main,Gradient boosting (uncalibrated),urgent_shutdown,1
+22,main,Gradient boosting + fixed thresholds,monitor,248
+22,main,Gradient boosting + fixed thresholds,reinspect,233
+22,main,Gradient boosting + fixed thresholds,planned_repair,56
+22,main,Gradient boosting + fixed thresholds,urgent_shutdown,3
+22,main,Proposed calibrated GB + optimizer,monitor,358
+22,main,Proposed calibrated GB + optimizer,reinspect,141
+22,main,Proposed calibrated GB + optimizer,planned_repair,41
+22,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+23,main,Fixed rule heuristic,monitor,331
+23,main,Fixed rule heuristic,reinspect,135
+23,main,Fixed rule heuristic,planned_repair,62
+23,main,Fixed rule heuristic,urgent_shutdown,12
+23,main,Logistic + calibration,monitor,375
+23,main,Logistic + calibration,reinspect,87
+23,main,Logistic + calibration,planned_repair,78
+23,main,Logistic + calibration,urgent_shutdown,0
+23,main,Random forest + calibration,monitor,338
+23,main,Random forest + calibration,reinspect,113
+23,main,Random forest + calibration,planned_repair,89
+23,main,Random forest + calibration,urgent_shutdown,0
+23,main,Gradient boosting (uncalibrated),monitor,212
+23,main,Gradient boosting (uncalibrated),reinspect,96
+23,main,Gradient boosting (uncalibrated),planned_repair,229
+23,main,Gradient boosting (uncalibrated),urgent_shutdown,3
+23,main,Gradient boosting + fixed thresholds,monitor,266
+23,main,Gradient boosting + fixed thresholds,reinspect,204
+23,main,Gradient boosting + fixed thresholds,planned_repair,67
+23,main,Gradient boosting + fixed thresholds,urgent_shutdown,3
+23,main,Proposed calibrated GB + optimizer,monitor,337
+23,main,Proposed calibrated GB + optimizer,reinspect,136
+23,main,Proposed calibrated GB + optimizer,planned_repair,67
+23,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+24,main,Fixed rule heuristic,monitor,313
+24,main,Fixed rule heuristic,reinspect,155
+24,main,Fixed rule heuristic,planned_repair,63
+24,main,Fixed rule heuristic,urgent_shutdown,9
+24,main,Logistic + calibration,monitor,343
+24,main,Logistic + calibration,reinspect,89
+24,main,Logistic + calibration,planned_repair,108
+24,main,Logistic + calibration,urgent_shutdown,0
+24,main,Random forest + calibration,monitor,346
+24,main,Random forest + calibration,reinspect,95
+24,main,Random forest + calibration,planned_repair,99
+24,main,Random forest + calibration,urgent_shutdown,0
+24,main,Gradient boosting (uncalibrated),monitor,209
+24,main,Gradient boosting (uncalibrated),reinspect,85
+24,main,Gradient boosting (uncalibrated),planned_repair,246
+24,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+24,main,Gradient boosting + fixed thresholds,monitor,236
+24,main,Gradient boosting + fixed thresholds,reinspect,209
+24,main,Gradient boosting + fixed thresholds,planned_repair,95
+24,main,Gradient boosting + fixed thresholds,urgent_shutdown,0
+24,main,Proposed calibrated GB + optimizer,monitor,308
+24,main,Proposed calibrated GB + optimizer,reinspect,146
+24,main,Proposed calibrated GB + optimizer,planned_repair,86
+24,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+25,main,Fixed rule heuristic,monitor,355
+25,main,Fixed rule heuristic,reinspect,133
+25,main,Fixed rule heuristic,planned_repair,48
+25,main,Fixed rule heuristic,urgent_shutdown,4
+25,main,Logistic + calibration,monitor,349
+25,main,Logistic + calibration,reinspect,100
+25,main,Logistic + calibration,planned_repair,91
+25,main,Logistic + calibration,urgent_shutdown,0
+25,main,Random forest + calibration,monitor,355
+25,main,Random forest + calibration,reinspect,84
+25,main,Random forest + calibration,planned_repair,101
+25,main,Random forest + calibration,urgent_shutdown,0
+25,main,Gradient boosting (uncalibrated),monitor,225
+25,main,Gradient boosting (uncalibrated),reinspect,119
+25,main,Gradient boosting (uncalibrated),planned_repair,196
+25,main,Gradient boosting (uncalibrated),urgent_shutdown,0
+25,main,Gradient boosting + fixed thresholds,monitor,270
+25,main,Gradient boosting + fixed thresholds,reinspect,155
+25,main,Gradient boosting + fixed thresholds,planned_repair,104
+25,main,Gradient boosting + fixed thresholds,urgent_shutdown,11
+25,main,Proposed calibrated GB + optimizer,monitor,317
+25,main,Proposed calibrated GB + optimizer,reinspect,114
+25,main,Proposed calibrated GB + optimizer,planned_repair,109
+25,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+26,main,Fixed rule heuristic,monitor,369
+26,main,Fixed rule heuristic,reinspect,115
+26,main,Fixed rule heuristic,planned_repair,48
+26,main,Fixed rule heuristic,urgent_shutdown,8
+26,main,Logistic + calibration,monitor,361
+26,main,Logistic + calibration,reinspect,100
+26,main,Logistic + calibration,planned_repair,79
+26,main,Logistic + calibration,urgent_shutdown,0
+26,main,Random forest + calibration,monitor,367
+26,main,Random forest + calibration,reinspect,95
+26,main,Random forest + calibration,planned_repair,78
+26,main,Random forest + calibration,urgent_shutdown,0
+26,main,Gradient boosting (uncalibrated),monitor,235
+26,main,Gradient boosting (uncalibrated),reinspect,97
+26,main,Gradient boosting (uncalibrated),planned_repair,207
+26,main,Gradient boosting (uncalibrated),urgent_shutdown,1
+26,main,Gradient boosting + fixed thresholds,monitor,292
+26,main,Gradient boosting + fixed thresholds,reinspect,153
+26,main,Gradient boosting + fixed thresholds,planned_repair,81
+26,main,Gradient boosting + fixed thresholds,urgent_shutdown,14
+26,main,Proposed calibrated GB + optimizer,monitor,355
+26,main,Proposed calibrated GB + optimizer,reinspect,100
+26,main,Proposed calibrated GB + optimizer,planned_repair,85
+26,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+27,main,Fixed rule heuristic,monitor,358
+27,main,Fixed rule heuristic,reinspect,123
+27,main,Fixed rule heuristic,planned_repair,50
+27,main,Fixed rule heuristic,urgent_shutdown,9
+27,main,Logistic + calibration,monitor,296
+27,main,Logistic + calibration,reinspect,142
+27,main,Logistic + calibration,planned_repair,101
+27,main,Logistic + calibration,urgent_shutdown,1
+27,main,Random forest + calibration,monitor,328
+27,main,Random forest + calibration,reinspect,105
+27,main,Random forest + calibration,planned_repair,107
+27,main,Random forest + calibration,urgent_shutdown,0
+27,main,Gradient boosting (uncalibrated),monitor,224
+27,main,Gradient boosting (uncalibrated),reinspect,112
+27,main,Gradient boosting (uncalibrated),planned_repair,203
+27,main,Gradient boosting (uncalibrated),urgent_shutdown,1
+27,main,Gradient boosting + fixed thresholds,monitor,254
+27,main,Gradient boosting + fixed thresholds,reinspect,179
+27,main,Gradient boosting + fixed thresholds,planned_repair,105
+27,main,Gradient boosting + fixed thresholds,urgent_shutdown,2
+27,main,Proposed calibrated GB + optimizer,monitor,315
+27,main,Proposed calibrated GB + optimizer,reinspect,121
+27,main,Proposed calibrated GB + optimizer,planned_repair,104
+27,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+28,main,Fixed rule heuristic,monitor,337
+28,main,Fixed rule heuristic,reinspect,126
+28,main,Fixed rule heuristic,planned_repair,67
+28,main,Fixed rule heuristic,urgent_shutdown,10
+28,main,Logistic + calibration,monitor,386
+28,main,Logistic + calibration,reinspect,65
+28,main,Logistic + calibration,planned_repair,89
+28,main,Logistic + calibration,urgent_shutdown,0
+28,main,Random forest + calibration,monitor,362
+28,main,Random forest + calibration,reinspect,94
+28,main,Random forest + calibration,planned_repair,84
+28,main,Random forest + calibration,urgent_shutdown,0
+28,main,Gradient boosting (uncalibrated),monitor,252
+28,main,Gradient boosting (uncalibrated),reinspect,69
+28,main,Gradient boosting (uncalibrated),planned_repair,217
+28,main,Gradient boosting (uncalibrated),urgent_shutdown,2
+28,main,Gradient boosting + fixed thresholds,monitor,288
+28,main,Gradient boosting + fixed thresholds,reinspect,171
+28,main,Gradient boosting + fixed thresholds,planned_repair,77
+28,main,Gradient boosting + fixed thresholds,urgent_shutdown,4
+28,main,Proposed calibrated GB + optimizer,monitor,347
+28,main,Proposed calibrated GB + optimizer,reinspect,109
+28,main,Proposed calibrated GB + optimizer,planned_repair,84
+28,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+29,main,Fixed rule heuristic,monitor,316
+29,main,Fixed rule heuristic,reinspect,127
+29,main,Fixed rule heuristic,planned_repair,83
+29,main,Fixed rule heuristic,urgent_shutdown,14
+29,main,Logistic + calibration,monitor,309
+29,main,Logistic + calibration,reinspect,93
+29,main,Logistic + calibration,planned_repair,138
+29,main,Logistic + calibration,urgent_shutdown,0
+29,main,Random forest + calibration,monitor,305
+29,main,Random forest + calibration,reinspect,93
+29,main,Random forest + calibration,planned_repair,142
+29,main,Random forest + calibration,urgent_shutdown,0
+29,main,Gradient boosting (uncalibrated),monitor,219
+29,main,Gradient boosting (uncalibrated),reinspect,75
+29,main,Gradient boosting (uncalibrated),planned_repair,245
+29,main,Gradient boosting (uncalibrated),urgent_shutdown,1
+29,main,Gradient boosting + fixed thresholds,monitor,246
+29,main,Gradient boosting + fixed thresholds,reinspect,151
+29,main,Gradient boosting + fixed thresholds,planned_repair,134
+29,main,Gradient boosting + fixed thresholds,urgent_shutdown,9
+29,main,Proposed calibrated GB + optimizer,monitor,299
+29,main,Proposed calibrated GB + optimizer,reinspect,93
+29,main,Proposed calibrated GB + optimizer,planned_repair,148
+29,main,Proposed calibrated GB + optimizer,urgent_shutdown,0
+30,main,Fixed rule heuristic,monitor,313
+30,main,Fixed rule heuristic,reinspect,169
+30,main,Fixed rule heuristic,planned_repair,49
+30,main,Fixed rule heuristic,urgent_shutdown,9
+30,main,Logistic + calibration,monitor,287
+30,main,Logistic + calibration,reinspect,181
+30,main,Logistic + calibration,planned_repair,72
+30,main,Logistic + calibration,urgent_shutdown,0
+30,main,Random forest + calibration,monitor,306
+30,main,Random forest + calibration,reinspect,168
+30,main,Random forest + calibration,planned_repair,66
+30,main,Random forest + calibration,urgent_shutdown,0
+30,main,Gradient boosting (uncalibrated),monitor,192
+30,main,Gradient boosting (uncalibrated),reinspect,93
+30,main,Gradient boosting (uncalibrated),planned_repair,253
+30,main,Gradient boosting (uncalibrated),urgent_shutdown,2
+30,main,Gradient boosting + fixed thresholds,monitor,186
+30,main,Gradient boosting + fixed thresholds,reinspect,290
+30,main,Gradient boosting + fixed thresholds,planned_repair,64
+30,main,Gradient boosting + fixed thresholds,urgent_shutdown,0
+30,main,Proposed calibrated GB + optimizer,monitor,298
+30,main,Proposed calibrated GB + optimizer,reinspect,183
+30,main,Proposed calibrated GB + optimizer,planned_repair,59
+30,main,Proposed calibrated GB + optimizer,urgent_shutdown,0

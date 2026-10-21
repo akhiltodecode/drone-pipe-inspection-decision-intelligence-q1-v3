@@ -1,0 +1,9 @@
+design_element,specification
+Monte Carlo design,30 independent replications
+Inspection unit,One drone inspection of one pipe segment
+Sample size,"108,000 segment inspections; 9,000 assets"
+Split,Asset-grouped 70% train / 15% calibration / 15% test
+Inputs,"RGB, thermal, pipe context, flight and acquisition quality"
+Outcome,Simulated 12-month pipe-segment failure
+Actions,"Monitor, reinspect, planned repair, urgent shutdown"
+Primary endpoint,Maintenance expected loss (MEL)

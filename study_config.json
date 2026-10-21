@@ -1,0 +1,40 @@
+{
+  "protocol_version": "3.0.0",
+  "study": {
+    "default_replications": 30,
+    "bootstrap_resamples": 5000,
+    "assets_per_replication": 300,
+    "segments_per_asset": 12,
+    "train_assets": 210,
+    "calibration_assets": 45,
+    "test_assets": 45
+  },
+  "seeds": {
+    "bootstrap": 440021,
+    "data": [101, 211, 307, 401, 503, 601, 701, 809, 907, 1009, 550321, 26965, 694070, 873493, 426267, 280808, 129282, 129855, 201950, 751896, 508013, 216633, 820821, 866325, 909475, 53128, 473835, 670129, 34271, 385118],
+    "model": [17, 29, 43, 59, 71, 83, 97, 109, 127, 139, 726759, 56299, 765543, 218385, 657089, 908420, 39888, 780388, 572621, 815818, 220800, 163966, 572647, 157734, 702784, 215970, 625277, 285969, 376566, 766395]
+  },
+  "decision_model": {
+    "actions": ["monitor", "reinspect", "planned_repair", "urgent_shutdown"],
+    "fixed_probability_thresholds": [0.10, 0.25, 0.55],
+    "residual_failure_fractions": [1.00, 0.72, 0.25, 0.05],
+    "failure_cost": {"low": 80.0, "medium": 160.0, "high": 320.0},
+    "direct_action_cost": {
+      "low": [0.0, 4.0, 16.0, 38.0],
+      "medium": [0.0, 6.0, 25.0, 60.0],
+      "high": [0.0, 9.0, 40.0, 95.0]
+    }
+  },
+  "robustness": {
+    "sensor_noise_multiplier": 1.5,
+    "stress_blur_increment": 0.15,
+    "stress_confidence_decrement": 0.18,
+    "stress_thermal_missing_fraction": 0.25,
+    "failure_cost_scales": [0.75, 1.00, 1.25],
+    "residual_risk_scales": [0.80, 1.00, 1.20]
+  },
+  "publication_limits": {
+    "maximum_paper_figures": 2,
+    "maximum_paper_tables": 2
+  }
+}
